@@ -1,0 +1,6 @@
+{
+  "name": "LOCATE LAB — From Coordinates to the Correct Location",
+  "description": "Interactive GIS lab for Computer Science students: master coordinates, datums, map projections, UTM zones, and CRS debugging for Melaka spatial datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
